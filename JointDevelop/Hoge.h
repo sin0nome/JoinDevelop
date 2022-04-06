@@ -4,7 +4,9 @@ private:
 
 	explicit Hoge(void) = default;
 
+	void hoge(void){
 
+	}
 
 };
 
